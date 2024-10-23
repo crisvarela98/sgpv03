@@ -1,0 +1,36 @@
+[
+  {
+    "_id": "66f09c0e2d013718722840af",
+    "username": "Cris",
+    "password": "1234",
+    "role": "user"
+  },
+  {
+    "_id": "66f36dc49b9a9557172e8f28",
+    "username": "Admin",
+    "password": "admin",
+    "role": "admin",
+    "email": "admin@fakemail.com"
+  },
+  {
+    "_id": "66f36df49b9a9557172eab0d",
+    "username": "Mike",
+    "password": "1234",
+    "role": "user",
+    "email": "mike@fakemail.com"
+  },
+  {
+    "_id": "66f36e0b9b9a9557172eb6bc",
+    "username": "Marce",
+    "password": "1234",
+    "role": "user",
+    "email": "marce@fakemail.com"
+  },
+  {
+    "_id": "66f36e1e9b9a9557172ec140",
+    "username": "Ivan",
+    "password": "1234",
+    "role": "user",
+    "email": "ivan@fakemail.com"
+  }
+]
